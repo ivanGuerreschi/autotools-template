@@ -1,0 +1,2 @@
+# autotools-template
+Autotools template
