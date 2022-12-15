@@ -47,3 +47,10 @@ m4/lt~obsolete.m4
 # can automatically generate from config.status script
 # (which is called by configure script))
 Makefile
+config.h
+lib/hello.o
+lib/libautotoolstemplate.a
+lib/.deps/hello.Po
+src/autotoolstemplate
+src/main.o
+src/.deps/main.Po
